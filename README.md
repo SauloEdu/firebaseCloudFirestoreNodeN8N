@@ -107,4 +107,8 @@ Document:
 
 🎯 Resultado
 
+<<<<<<< HEAD
 Com esse node, você consegue integrar o Firestore ao seu n8n de forma simples, segura e escalável, abrindo espaço para automações poderosas. 🚀
+=======
+Com esse node, você consegue integrar o Firestore ao seu n8n de forma simples, segura e escalável, abrindo espaço para automações poderosas. 🚀
+>>>>>>> cae6bf9c222880cdccffe5971edb0aa011f9ead2
