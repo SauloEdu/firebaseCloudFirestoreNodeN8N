@@ -4,8 +4,8 @@
     "description": "Um node n8n para interagir com o Google Cloud Firestore.",
     "license": "MIT",
     "author": {
-        "name": "Saulo",
-        "email": "saulo.eduita@gmail.com"
+        "name": "SauloEdu",
+        "email": "seu-email@example.com"
     },
     "repository": {
         "type": "git",

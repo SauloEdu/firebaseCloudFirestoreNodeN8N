@@ -63,6 +63,7 @@ export class CloudFirestore implements INodeType {
 		version: 1,
 		subtitle: '={{$parameter["operation"]}}',
 		description: 'Interage com o Google Cloud Firestore',
+		documentationUrl: 'https://github.com/SauloEdu/firebaseCloudFirestoreNodeN8N', // Link da documentação
 		defaults: {
 			name: 'Cloud Firestore',
 		},
