@@ -1,6 +1,6 @@
 {
-    "name": "n8n-nodes-firestore-connection",
-    "version": "0.1.0",
+    "name": "n8n-nodes-firestore",
+    "version": "1.0.0",
     "description": "Um node n8n para interagir com o Google Cloud Firestore.",
     "license": "MIT",
     "author": {
@@ -45,5 +45,11 @@
     },
     "dependencies": {
         "@google-cloud/firestore": "^7.0.0"
-    }
+    },
+    "keywords": [
+        "n8n-community-node-package",
+        "firestore",
+        "firebase",
+        "database"
+    ]
 }
